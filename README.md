@@ -445,4 +445,4 @@ This project started as "deploy a VM" and became a study in access management. T
 ![Azure CLI](https://img.shields.io/badge/Azure_CLI-0078D4?style=flat&logo=azuredevops&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-📫 Connect with me: [LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/isaiah-herard/) | [GitHub](https://github.com/ZayLinux26)
