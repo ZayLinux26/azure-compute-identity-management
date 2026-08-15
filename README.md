@@ -427,3 +427,22 @@ azure-compute-identity-management/
     ├── 21-budget.png
     └── 22-cost-analysis.png
 ```
+
+## Closing
+
+This project started as "deploy a VM" and became a study in access management. The compute was the easy part. The real work was making sure the right identities had the right access to the right resources and nothing more, then proving each control held up. Every roadblock along the way taught something the happy path never would. That is the point of building in the open: not a flawless run, but a documented one.
+
+**Author:** Isaiah Herard
+**Focus:** Cloud Security and Identity & Access Management
+**Project:** Azure Compute and Identity Management (Project 1)
+
+**Tools used:**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-2560E0?style=flat&logo=microsoft&logoColor=white)
+![Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Policy](https://img.shields.io/badge/Azure_Policy-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure CLI](https://img.shields.io/badge/Azure_CLI-0078D4?style=flat&logo=azuredevops&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+📫 Connect with me: [LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
